@@ -1,0 +1,23 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Quarto
+.quarto/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# OneDrive
+~$*
